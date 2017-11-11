@@ -7,5 +7,5 @@ This repository contains the course data files and solutions for the Python Data
 
 ## Contents
 1. Data Files
-  1. Salaries.csv
+* Salaries.csv
 2. Solutions (Python Notebooks)
