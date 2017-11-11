@@ -7,6 +7,6 @@ This repository contains the course data files and solutions for the Python Data
 
 ## Contents
 
-### Data Files
+1. Data Files
 
-### Solutions (Python Notebooks)
+2. Solutions (Python Notebooks)
